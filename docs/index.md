@@ -7,7 +7,7 @@ Hello and welcome! My name is Marlon Josue Rivera Valladares and I am a first ye
 
 As my field of studies suggest, I am a person interested in discovering how and why things function the way they do, to try to make a sense of the world in which we live. I am currently working on the exploration of dark matter (DM) with [Professor Katelin Schutz](https://katelinschutz.com) as part of the DMcGill group. My work is mainly focused on trying to acertain if different DM models are allowed or viable from a theoretical standpoint and from observational constraints.
 
-If you want to know more about me and my more general interests, you can visit my [about me](./about/about.md) page. On my [research](./reasearch/index.md) page you'll find more information about my different projects, but you can also visit my [publications](./publications/index.md) page for complementary details. Additionally, you can also explore some my [outreach](./outreach/about.md) experiences.
+If you want to know more about me and my more general interests, you can visit my [about me](./about/about.md) page. On my [research](./reasearch/index.md) page you'll find more information about my different projects, but you can also visit my [publications](./publications/index.md) page for complementary details. Additionally, you can also explore some of my [outreach](./outreach/about.md) experiences.
 
 <!-- ## Here is an equation
 
