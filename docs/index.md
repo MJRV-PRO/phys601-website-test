@@ -1,21 +1,19 @@
-# Welcome to My Research Page
+# Welcome to My Research Page!
 
 
-![Me](./media/me.jpeg "Me"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
+![Me](./media/me.jpeg "Me"){align="left": style="height:220;width:220px"}
 
+Hello and welcome! My name is Marlon Josue Rivera Valladares and I am a first year Master of Science in Physics student at McGill University in Montréal, Québec, Canada.
 
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
+As my field of studies suggest, I am a person interested in discovering how and why things function the way they do, to try to make a sense of the world in which we live. I am currently working on the exploration of dark matter (DM) with [Professor Katelin Schutz](https://katelinschutz.com) as part of the DMcGill group. My work is mainly focused on trying to acertain if different DM models are allowed or viable from a theoretical standpoint and from observational constraints.
 
-## Here is an equation
+If you want to know more about me and my more general interests, you can visit my [about me](./about/about.md) page. On my [research](./reasearch/index.md) page you'll find more information about my different projects, but you can also visit my [publications](./publications/index.md) page for complementary details. Additionally, you can also explore some my [outreach](./outreach/about.md) experiences.
+
+<!-- ## Here is an equation
 
 $$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
 
 ## Here is the Crab Nebula
 
 [![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
-I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula).
+I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula). -->

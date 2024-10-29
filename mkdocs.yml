@@ -1,23 +1,25 @@
 # Change to your own name
-site_name: My Research Page
+site_name: MJRV's Research Page
 # Change to your own site
 site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
 site_author: Marlon Josue Rivera Valladares (stephan.obrien@mcgill.ca)
 site_description: Research site for Marlon Josue Rivera Valladares 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Marlon Josue Rivera Valladares <br>
+  &copy; 2024 Marlon Josue Rivera Valladares <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
-
+extra_css: [extra.css]
 
 theme:
+    logo: media/logo.png
+    favicon: media/favicon.png
     name: material
     palette:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: teal
         # Link highlight color
         accent : orange
         
@@ -58,19 +60,29 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
-  - Projects: projects/index.md
+  - Publications: publications/index.md
+  - Outreach: outreach/index.md
+
+# # Extensions that we want to use
+# markdown_extensions:
+#   - attr_list   # For adding attributes such as right/left align to images
+#   - md_in_html  # Using Figures
+#   - footnotes
+
+# Additional plugins
+plugins:
+    - search
+    - bibtex:
+        bib_file: /Users/mjrv/Documents/Website_stuff/phys601-website-test/docs/refs.bib
+    # Using jupyter notebook  
+    - mkdocs-jupyter:
+          theme: default
+    # - search
+    # - bibtex:
+    #     bib_file: "refs.bib"
 
 # Extensions that we want to use
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
-
-
-
-# Additional plugins
-plugins:
-    - search
-    # Using jupyter notebook  
-    - mkdocs-jupyter:
-          theme: default
-
+  - footnotes
